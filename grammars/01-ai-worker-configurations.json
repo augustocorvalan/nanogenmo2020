@@ -1,0 +1,9 @@
+{
+"origin":["#dwelling# #adverb1# #ideology# #organism#"],
+"dwelling":["dwellings","community control", "public housing", "communes","machine cities", "communities", "communications", "control sharing", "mobile", "currency", "citizenship policies"],
+"adverb1":["for", "of", "in"],
+"ideology":["communist", "unionized", "democratic","collaborative","feminist","imperial","fascist", "interlinked","connected","de-colonized","colonized","liberated","violent","anarchist","council of","primitivist","technocratic","tribal","feudal","de-centralized","centralized","unemployed","independent","revolutionary","autogenous","organized"],
+"organismType": ["AI", "robot", "solar-powered", "mesh", "drone","neural network"],
+"job":["military weapon platforms", "farmers","artists","surveillance networks","pleasure","terraforming","toxic cleanup"],
+"organism":["#organismType# #job#"]
+}
